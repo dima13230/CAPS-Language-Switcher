@@ -1,0 +1,5 @@
+
+*.o
+.vs/lswitch/v16/.suo
+*.db
+*.ipch
