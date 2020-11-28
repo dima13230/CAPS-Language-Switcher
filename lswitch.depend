@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606513105 source:s:\programming\low-level\lswitch\lswitch.c
+	<windows.h>
+	<time.h>
+	<tchar.h>
+
